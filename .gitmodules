@@ -1,0 +1,3 @@
+[submodule "Asteroids1"]
+	path = Asteroids1
+	url = https://github.com/java7f/Asteroids1.git
